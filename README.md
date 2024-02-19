@@ -1,1 +1,1 @@
-# Body-Banao.com
+The Body_Banao.com is a app of a fitness center or gym. In this app  Attendance Tracking, Member Management, and Subscription Management. This project aims to provide gym owners, managers, and staff with a user-friendly platform to efficiently manage various aspects of their facility.
